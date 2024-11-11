@@ -10,8 +10,8 @@ A computer program can translate tremendous amounts of content quickly. Even the
 
 ## Dataset:
 
-I have attched Kaggle URL to the dataset
-
+The link for the dataset is
+https://www.kaggle.com/datasets/umasrikakollu72/hindi-english-truncated-corpus/code
 
 ## Conclusion:
 
