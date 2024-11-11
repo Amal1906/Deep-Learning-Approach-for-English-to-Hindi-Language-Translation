@@ -11,8 +11,7 @@ A computer program can translate tremendous amounts of content quickly. Even the
 ## Dataset:
 
 The link for the dataset is
-https://www.kaggle.com/datasets/umasrikakollu72/hindi-english-truncated-corpus/code
-
+https://www.kaggle.com/datasets/umasrikakollu72/hindi-english-truncated-corpus
 ## Conclusion:
 
 The Hindi-English Truncated Corpus dataset contains 127607 parallel sentences in Hindi and English, preprocessed and filtered for quality. It is a useful resource for natural language processing tasks such as machine translation and text classification and can serve as a benchmark dataset for evaluating the performance of different models and techniques in this field.
